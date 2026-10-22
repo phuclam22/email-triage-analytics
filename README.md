@@ -1,6 +1,6 @@
 # AI-Powered Customer Email Routing & SLA Operations
 
-## 📌 Project Overview
+## Project Overview
 This project showcases an end-to-end data engineering and analytics pipeline designed to automate customer support email triage using Large Language Models (LLMs) and monitor Service Level Agreement (SLA) compliance. 
 
 By leveraging **Databricks Medallion Architecture** and **Power BI**, the system ingests raw support tickets, utilizes AI for intelligent routing (Sentiment, Category, Urgency), processes business logic, and visualizes operational bottlenecks for the management team.
